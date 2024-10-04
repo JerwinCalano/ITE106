@@ -1,14 +1,13 @@
-import java.io.File;
-import java.util.Scanner;
-public class TextFileManipulatorFileReader
-{
-	public static void main(String[] ards) throws Exception
-	{
+import java.io.*;
 
-	File file = new File("jerwin.txt");
-	Scanner sc = new Scanner(file);
-	
-	while (sc.hasNextLine())
-		System.out.println(sc.nextLine());
+public class TextFileManipulationFileReader
+{
+	public static void main(String [] args) throws Exception{
+		
+		File file = new File("jerwin.txt");
+		
+		int i;
+		while((i = fr.read()) != -1)
+			System.out.print((char) i);
 	}
 }
