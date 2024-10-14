@@ -1,4 +1,4 @@
-class Lamp1
+class Lamp
 {
   boolean isOn;
 
