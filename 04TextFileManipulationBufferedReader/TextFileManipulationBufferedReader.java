@@ -1,10 +1,9 @@
 import java.io.*;
 
-public class TextFileBufferedReaderTextFileBufferedReader {
+public class TextFileManipulationBufferedReader {
 
 	public static void main(String[] args) throws Exception
 	{
-	
 		File file = new File("jerwin.txt");
 		
 		BufferedReader br = new BufferedReader(new FileReader(file));
