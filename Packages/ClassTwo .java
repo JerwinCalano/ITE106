@@ -1,4 +1,4 @@
-package packagfe_one;
+package package_one;
 
 public class ClassTwo {
   public void methodClassTwo()
