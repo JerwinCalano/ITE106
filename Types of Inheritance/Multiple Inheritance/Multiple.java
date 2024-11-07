@@ -1,5 +1,5 @@
 // Drived class
-public class Main {
+public class Multiple {
     public static void main(String[] args)
     {
         child c = new child();
