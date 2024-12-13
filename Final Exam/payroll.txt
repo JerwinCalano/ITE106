@@ -1,0 +1,5 @@
+1,Marvin Sarmiento,100.00,8.00,800.00,640.00
+2,Maricar Salome,200.00,9.00,1800.00,1440.00
+3,Paul Vincent Villaflores,300.00,10.00,3000.00,2400.00
+4,Jan Carluz DeLeon,400.00,11.00,4400.00,3520.00
+5,Laurence Galvan,500.00,12.00,6000.00,4800.00
